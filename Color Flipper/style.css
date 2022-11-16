@@ -1,0 +1,70 @@
+/* global settings */
+*{
+    margin: 0;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* custom settings */
+.center{
+    text-align: center;
+}
+
+.header{
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: aliceblue;
+    padding: 0 30px;
+    box-shadow: 0 3px 3px -3px rgba(0,0,0,.2);
+    z-index: 5;
+}
+
+.header-items{
+    font-size: 1.2rem;
+    letter-spacing: 1.5px;
+}
+
+.header-items a{
+    color: rgb(0, 166, 255);
+}
+
+.main{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.txt-bg{
+    color: azure;
+    padding: 8px 16px;
+    border-radius: 5px;
+    font-size: 1.7rem;
+    background-color: black;
+}
+
+.btn-primary{
+    font-size: 16px;
+    padding: 8px 18px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: rgba(0,0,0,0);
+}
+
+.py-1{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.my-1{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.my-2{
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
