@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    letter-spacing: 1px;
+    font-family: Arial, sans-serif;
+}
+
+.main{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.headingPrimary{
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+}
+
+.counting{
+    color: black;
+    font-size: 5rem;
+    margin: 1rem 0rem;
+}
+
+.btn{
+    padding: 4px 15px;
+    margin: 0rem .5rem;
+    background-color: azure;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+
+
+.btn:hover{
+    background-color: rgb(28, 19, 19);
+    color: azure;
+}
