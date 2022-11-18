@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+/* margin and padding  */
+
+.py-1{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+
+.py-2{
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.my-1{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.my-2{
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+
+/* design according project  */
+
+.main{
+    width: 100 vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(224, 251, 251);
+}
+
+.card{
+    width: 40vw;
+    background-color: #fff;
+    padding: 3rem;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 10px;
+    box-shadow: 5px 10px 10px 0px rgba(0,0,0,.2);
+}
+
+
+.main-heading {
+    padding: 0 20px;
+    border-bottom: 4px solid rgb(25, 128, 245);
+    
+}
+
+.intro{
+    display: flex;
+    flex-direction: column;
+}
+
+.name{
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+}
+
+.designation{
+    font-size: 14px;
+    color: darkgray;
+    text-transform: uppercase;
+}
+
+
+.profile-img img{
+    border-radius: 50%;
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+.profile-img{
+    border-radius: 50%;
+    background-color: rgb(25, 128, 245);
+    padding-right: 6px;
+    padding-top: 5px;
+    width: 100px;
+    height: 150px; 
+}
+
+.quote{
+    padding: 5px 5px;
+    border-radius: 50%;
+    font-size: 28px;
+    color: #fff;
+    background-color: rgb(25, 128, 245);
+    position: relative;
+    top: -160px;
+    left: -35px;
+}
+
+.review{
+    padding: 0px 1rem;
+}
+
+.random-btn button{
+    font-size: 18px;
+    color: #fff;
+    padding: 8px 20px;
+    border-radius: 30px;
+    border: none;
+    box-shadow: 2px 10px 20px -2px rgba(0,0,0,.2);
+    background-color: rgb(25, 128, 245);
+}
+
+.random-btn :hover{
+    background-color: rgb(39, 139, 253);
+    
+}
+
+
+.arrow-btn{
+    margin-bottom: 1rem;
+}
+
+.arrow-btn button{
+    font-size: 20px;
+    color: rgb(25, 128, 245);;
+    padding: 3px 12px;
+    background: none;
+    border: none;
+}
+
+.arrow-btn :hover{
+    color: rgb(137, 190, 251);;
+    
+}
+
+#left-arrow{
+    margin-right: 5px;
+}
+
+#right-arrow{
+    margin-left: 5px;
+}

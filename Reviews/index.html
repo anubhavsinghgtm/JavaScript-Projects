@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Review</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="main">
+        
+        <!-- main heading  -->
+        <div class="main-heading my-2">
+            <h1>Our Reviews</h1>
+            <span class="underline"></span>
+        </div>
+
+        <!-- review card  -->
+        <div class="card my-1">
+            
+            <!-- profile image  -->
+            <div class="profile-img">
+                <img id='img' src="img/shivam.jpg" alt="profile image">
+                <span class="quote">❞</span>
+            </div>
+
+            <!-- name and designation  -->
+            <div class="intro py-1">
+                <span id="name" class="name">Shivam Premchandra</span>
+                <span id="designation" class="designation">Android Mechanic</span>
+            </div>
+
+
+            <!-- review -->
+            <div id="review" class="review">
+                I have used the car. It flows very fast. 
+                Might be the sdk version is good.We’re going to build a web page that displays “This page does not exist.” in all capital letters.
+            </div>
+
+            <!-- navigation buttons  -->
+            <div class="navigation-btn py-1">
+                
+                <!-- arrow buttons  -->
+                <div class="arrow-btn">
+                    <button id="left-arrow" onclick="leftReview()"><</button>
+                    <button id="right-arrow" onclick="rightReview()">></button>
+                </div>
+
+                <!-- random button  -->
+                <div class="random-btn">
+                    <button id="random-btn" onclick="randomReview()">Surprise Me</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
