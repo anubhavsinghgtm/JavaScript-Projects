@@ -25,7 +25,12 @@ const review = [
 },
 ]
 
-var index = 1;
+let index = 0;
+
+
+window.addEventListener("DOMContentLoaded",function(){
+    setValue(review[index]);
+})
 
 function setValue(obj){
     document.getElementById('name').innerHTML = obj.name;
@@ -42,18 +47,21 @@ function randomReview(){
 }
 
 function leftReview(){
+
+    index--;
     if(index < 0 ){
         console.log(index);
         index = review.length-1;
     }
-    setValue(review[index--]);
+    setValue(review[index]);
 }
 
 function rightReview(){
+    index++;
     if(index > review.length - 1 ){
         console.log(index);
         index = 0;
     }
         
-    setValue(review[index++]);
+    setValue(review[index]);
 }
