@@ -6,6 +6,7 @@
 2. Counter
 3. Review
 4. Navbar Toggle
+5. Sidebar
 
 
 ## Overview
@@ -32,6 +33,15 @@ In this project I have created a responsive navigation menu for desktop and mobi
 
 #### mobile navbar view
 ![mobile-navbar](https://github.com/anubhavsinghgtm/JavaScript-Projects/blob/df517dd020ac0a2b741e3ca1560bf30859a0613d/Navbar%20Toggle/Screenshots/mob-nav.png)
+
+
+### Sidebar
+This project is very similar to navbar toggle where I have created a sidebar. The sidebar will cover 40% of space on bigger screen while 100% on smaller screen.
+
+
+![sidebar](https://github.com/anubhavsinghgtm/JavaScript-Projects/blob/3ba75e5773bedeefd79de622f718625a604a7500/Sidebar/Screenshot/sidebar.png)
+
+
 
 
 #### Thanks for reading
