@@ -5,6 +5,7 @@
 1. Color Flipper
 2. Counter
 3. Review
+4. Navbar Toggle
 
 
 ## Overview
@@ -23,6 +24,14 @@ We have a card of review from the different people. There we have two buttons fo
 
 ![review](https://github.com/anubhavsinghgtm/JavaScript-Projects/blob/f7b092ab3a908896b7af931e892c02daaf873790/Reviews/screenshots/review.png)
 
+### Navbar Toggle
+In this project I have created a responsive navigation menu for desktop and mobile version. Javascript is used to toggle(add and remove) the class required for different different device viewport.
+
+#### desktop version
+![desktop-version](https://github.com/anubhavsinghgtm/JavaScript-Projects/blob/df517dd020ac0a2b741e3ca1560bf30859a0613d/Navbar%20Toggle/Screenshots/desktop-version.png)
+
+#### mobile navbar view
+![mobile-navbar](https://github.com/anubhavsinghgtm/JavaScript-Projects/blob/df517dd020ac0a2b741e3ca1560bf30859a0613d/Navbar%20Toggle/Screenshots/mob-nav.png)
 
 
 #### Thanks for reading
