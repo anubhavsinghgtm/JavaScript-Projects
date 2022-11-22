@@ -7,6 +7,7 @@
 3. Review
 4. Navbar Toggle
 5. Sidebar
+6. Modal
 
 
 ## Overview
@@ -40,6 +41,12 @@ This project is very similar to navbar toggle where I have created a sidebar. Th
 
 
 ![sidebar](https://github.com/anubhavsinghgtm/JavaScript-Projects/blob/3ba75e5773bedeefd79de622f718625a604a7500/Sidebar/Screenshot/sidebar.png)
+
+
+### Modal
+This is a very famous activity of frontend where we can open a modal by clicking on the button. On a single click you can view the modal and there is a close button on the modal to close the modal easily.
+
+![modal](https://github.com/anubhavsinghgtm/JavaScript-Projects/blob/3735b6b481847d98f4af3fa84dfe994c71bfd4bf/Modal/Screenshot/modal.png)
 
 
 
