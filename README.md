@@ -49,6 +49,10 @@ This is a very famous activity of frontend where we can open a modal by clicking
 ![modal](https://github.com/anubhavsinghgtm/JavaScript-Projects/blob/3735b6b481847d98f4af3fa84dfe994c71bfd4bf/Modal/Screenshot/modal.png)
 
 
+### Questions
+In this project I have created an interface where you can toggle the view on clicking. It's a great facility that you can use in your FAQs to maintain the UI spaces.
+
+![question-toggle](https://github.com/anubhavsinghgtm/JavaScript-Projects/blob/08774212a7d8101432b486c44f6ebbbb2a4ba81e/Question/Screenshots/toggleView.png)
 
 
 #### Thanks for reading
