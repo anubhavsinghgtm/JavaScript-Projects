@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    text-decoration: none;
+    list-style-type: none;
+    box-sizing: border-box;
+    font-family:  monospace;
+}
+
+a{
+    color: inherit;
+}
+
+.main{
+    width: 100vw;
+    height: 100vh;
+    
+    background-image: url('image/bg.jpg');
+    background-size: cover;
+}
+
+
+header{
+    height: 5rem;
+
+    /* background-color: cornflowerblue; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 3em;
+    
+}
+
+.logo{
+    font-weight: 500;
+    font-size: 3rem;
+    z-index: 10;
+}
+
+.navlist{
+    display: flex;
+    font-size: 1.3em;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.navlink{
+    margin: 0 2em;
+}
+
+
+.about-section{
+    margin: 3em 0;
+    text-align: center;
+}
+
+.about-section h1{
+    font-size: 2em;
+}
+
+
+.sticky{
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 5px 10px 10px 0px rgb(0 0 0 /20%);
+}
+
+.menu-icon{
+    display: none;
+    font-size: 1.3em;
+}
+
+
+
+
+@media screen  and (max-width: 952px) {
+    .navbar{
+        display: none;
+    }
+
+
+    .menu-icon{
+        display: block;
+        transition: .8s;
+    }
+
+    header{
+        position: relative;
+        /* padding: 0 1.5em 0 1em; */
+        
+    }
+
+    .menu-active .navbar{
+        display: flex;
+        justify-content: space-between;
+        transition: .8s;
+       
+    }
+
+    .menu-active .navlist{
+        position: absolute;
+        width: 100vw;
+        left: 0;
+        flex-direction: column;
+        background-color: rgb(254,194,124,0.7);
+        padding: 0;
+        margin: 1.6em 0;
+        
+    }
+
+    .menu-active.sticky .navlist{
+        background-color: white;
+    }
+
+
+    .menu-active .navlink{
+        width: 100vw;
+        margin-left: 0;
+        padding: 1em 2.65em;
+        
+    }
+
+    .menu-active .navlink:hover{
+        background-color: rgb(255, 255, 255);
+    }
+
+    .menu-active.sticky .navlink:hover{
+        background-color: rgb(228, 228, 228);
+    }
+
+    .menu-active .menu-icon{
+        transform: rotate(90deg);
+        transition: .8s;
+    }
+
+    .logo{
+        font-size: 2em;
+    }
+
+    .navlist{
+        font-size: 1.1em;
+    }
+}
