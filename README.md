@@ -59,6 +59,8 @@ In this project I have created an interface where you can toggle the view on cli
 ### Scroll sticky header
 This is a useful project where one can use scroll method to make the header sticky and same time apply some changes while scrolling. It is also kept in mind that the page should be mobile friendly and work on smaller as well as big screens.
 
+![sticky-header](https://github.com/anubhavsinghgtm/JavaScript-Projects/blob/2ae4ef3c51805903c953d04cc4a6b4de21de910e/Scroll/Screenshots/sticky%20header.jpg)
+
 
 #### Thanks for reading
 You can connect with me on [Twitter](https://twitter.com/anubhavsinghgtm).
