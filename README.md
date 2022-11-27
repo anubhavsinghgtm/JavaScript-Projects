@@ -62,5 +62,10 @@ This is a useful project where one can use scroll method to make the header stic
 ![sticky-header](https://github.com/anubhavsinghgtm/JavaScript-Projects/blob/2ae4ef3c51805903c953d04cc4a6b4de21de910e/Scroll/Screenshots/sticky%20header.jpg)
 
 
+### Tabs
+Here we have four different tabs with different data. We can switch over any tabs smoothly. This is very useful to present a large piece of contnet in a small space.
+
+![tabs](https://github.com/anubhavsinghgtm/JavaScript-Projects/blob/942b1dc8e130cbad0123ad0a74f57b1d6bdfa02b/Tabs/Screenshots/tabs.jpg)
+
 #### Thanks for reading
 You can connect with me on [Twitter](https://twitter.com/anubhavsinghgtm).
