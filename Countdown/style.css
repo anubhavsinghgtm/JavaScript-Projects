@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+.main-section{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading{
+    font-size: 5rem;
+    margin: 1rem 0;
+}
+
+.countdown-container{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.contents{
+    background-color: black;
+    color: white;
+    margin: 1rem;
+    width: 120px;
+    padding: 1rem 0;
+    border-radius: .25rem;
+    font-size: 1.1rem;
+    box-shadow: 6px 8px 9px -8px rgb(0 0 0/10);
+}
+
+.container{
+    text-align: center;
+}
+
+span{
+    text-transform: uppercase;
+    font-size: 12px;
+}
