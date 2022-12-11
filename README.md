@@ -10,6 +10,7 @@
 6. Modal
 7. Questions
 8. Scroll sticky header
+9. Countdown
 
 
 ## Overview
@@ -66,6 +67,11 @@ This is a useful project where one can use scroll method to make the header stic
 Here we have four different tabs with different data. We can switch over any tabs smoothly. This is very useful to present a large piece of contnet in a small space.
 
 ![tabs](https://github.com/anubhavsinghgtm/JavaScript-Projects/blob/942b1dc8e130cbad0123ad0a74f57b1d6bdfa02b/Tabs/Screenshots/tabs.jpg)
+
+### Countdown
+Here we can set a deadline and there will be a countdown that runs every second.
+
+![countdown](https://github.com/anubhavsinghgtm/JavaScript-Projects/blob/6053620241f9704f5c9221e60594c8b124311753/Countdown/Screenshot/countdown.jpg)
 
 #### Thanks for reading
 You can connect with me on [Twitter](https://twitter.com/anubhavsinghgtm).
