@@ -10,7 +10,10 @@
 6. Modal
 7. Questions
 8. Scroll sticky header
-9. Countdown
+9. Tabs
+10. Countdown
+11. Lorem Ipsum
+
 
 
 ## Overview
@@ -72,6 +75,11 @@ Here we have four different tabs with different data. We can switch over any tab
 Here we can set a deadline and there will be a countdown that runs every second.
 
 ![countdown](https://github.com/anubhavsinghgtm/JavaScript-Projects/blob/6053620241f9704f5c9221e60594c8b124311753/Countdown/Screenshot/countdown.jpg)
+
+
+### Lorem Ipsum
+This tool will help you to generate random paragraphs alternate to Lorem Ipsum. It is noice though but can be modified to work similar like lorem ipsum text.
+
 
 #### Thanks for reading
 You can connect with me on [Twitter](https://twitter.com/anubhavsinghgtm).

@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-container{
+    display: flex;
+    width: 100vw;
+    align-items: center;
+    flex-direction: column;
+}
+
+.heading{
+    font-size: 40px;
+    margin: 3rem;
+}
+
+.input{
+    padding: .5rem 1rem;
+    border-radius: .3rem;
+}
+
+
+.label{
+    font-size: 18px;
+}
+
+.submit-btn{
+    padding: .7rem 1.2rem;
+    margin: 0 .5rem;
+    border-radius: .3rem;
+    background-color: cadetblue;
+    color: white;
+    border: none;
+}
+
+.submit-btn:hover{
+    background-color: rgb(64, 124, 126);
+}
+
+
+.results{
+    padding: 1rem 15rem;
+}
