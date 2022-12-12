@@ -80,6 +80,8 @@ Here we can set a deadline and there will be a countdown that runs every second.
 ### Lorem Ipsum
 This tool will help you to generate random paragraphs alternate to Lorem Ipsum. It is noice though but can be modified to work similar like lorem ipsum text.
 
+![lorem](https://github.com/anubhavsinghgtm/JavaScript-Projects/blob/c21b524be55fbd80cef5706fbfa94452528aff49/Lorem%20Ipsum/Screenshot/lorem%20ipsum.jpg)
+
 
 #### Thanks for reading
 You can connect with me on [Twitter](https://twitter.com/anubhavsinghgtm).
