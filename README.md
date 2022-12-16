@@ -13,6 +13,7 @@
 9. Tabs
 10. Countdown
 11. Lorem Ipsum
+12. Grocery
 
 
 
@@ -82,6 +83,9 @@ This tool will help you to generate random paragraphs alternate to Lorem Ipsum. 
 
 ![lorem](https://github.com/anubhavsinghgtm/JavaScript-Projects/blob/c21b524be55fbd80cef5706fbfa94452528aff49/Lorem%20Ipsum/Screenshot/lorem%20ipsum.jpg)
 
+
+### Grocery
+This is a simple application that can save your grocery list. You can edit the item or delete the item. Also there is a button to delete all the item at once. The data is stored in the local storage hence if accidently refreshed the data will not be deleted.
 
 #### Thanks for reading
 You can connect with me on [Twitter](https://twitter.com/anubhavsinghgtm).
