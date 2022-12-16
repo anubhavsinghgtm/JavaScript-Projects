@@ -87,5 +87,8 @@ This tool will help you to generate random paragraphs alternate to Lorem Ipsum. 
 ### Grocery
 This is a simple application that can save your grocery list. You can edit the item or delete the item. Also there is a button to delete all the item at once. The data is stored in the local storage hence if accidently refreshed the data will not be deleted.
 
+![grocery-app](https://github.com/anubhavsinghgtm/JavaScript-Projects/blob/28c72c200efc44b42b88e066e6def417b239c10c/Grocery/Screenshots/delete.png)
+
+
 #### Thanks for reading
 You can connect with me on [Twitter](https://twitter.com/anubhavsinghgtm).
