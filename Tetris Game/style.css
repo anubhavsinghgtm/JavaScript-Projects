@@ -1,0 +1,47 @@
+h1{
+    margin: 0;
+    text-align: center;
+    font-size: 2rem;
+}
+
+
+.main-container{
+    padding: 1rem;
+}
+
+.grids{
+    display: flex;
+    margin: 1rem 0;
+}
+
+.grid{
+    width: 200px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: yellow;
+    margin: 0 1rem 0 0;
+}
+
+.grid div {
+    height: 20px;
+    width: 20px;
+}
+
+.red{
+    background-color: red;
+}
+
+.small-grid{
+    background-color: yellow;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.small-grid div{
+    width: 20px;
+    height: 20px;
+    
+}
